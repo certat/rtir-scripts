@@ -52,8 +52,8 @@ Options:
 
 ### cleanup_tool.pl
 
-We all know that we should always keep an eye on our tickets and prompty
-close all those incidents than can be closed. This can be a bit tedious as
+We all know that we should always keep an eye on our tickets and promptly
+close all incidents that can be closed. This can be a bit tedious as
 one might need to check all associated Reports and Investigation tickets.
 This tool simplifies that process.
 
