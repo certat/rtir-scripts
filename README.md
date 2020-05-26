@@ -1,6 +1,8 @@
 # rtir-scripts
 Various small scripts that make life easier with RT(IR)
 
+Author: Otmar Lendl, CERT.at
+
 ## Bulk Ticket Cleanup
 
 Both scripts need a config file (default location ~/config.yml) which 
