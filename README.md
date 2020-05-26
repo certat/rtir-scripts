@@ -9,11 +9,12 @@ Both scripts need a config file (default location ~/config.yml) which
 defines the parameters needed to connect to the RTIR server. It's in 
 YAML format an should look something like this:
 
+```
 rtserver: "https://rtir.cert.at/rt/"
 rtuser: "joe"
 rttimeout: 30
 cookiejar: "/home/joe/cookies"
-
+```
 On the first connect, use the -l option to ask for a password. The scripts
 should save the session cookie so that -l is not needed for subsequent runs.
 
